@@ -2,14 +2,14 @@
 Student Budget Tracker is the easiest and most user friendly expense manager app in the store. The simple fact is, by tracking your spending you will be able to stick to a budget and therefore SAVE MONEY. So download it for free, enter your expense , and have instant control over your spending!
 
 
-![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/UntitledWERG.png?raw=true)
-![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/Screenshot_20170216-030223.png?raw=true)
-![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/Screenshot_2017-02-09-23-22-26-641_com.magic.akash.magicbox.png?raw=true)
-![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/Screenshot_2017-02-09-23-24-40-241_com.magic.akash.magicbox.png?raw=true)
-![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/Screenshot_2017-07-09-23-28-31-690_com.magic.akash.magicbox.png?raw=true)
-![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/Screenshot_2017-07-09-23-30-31-937_com.magic.akash.magicbox.png?raw=true)
-![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/Screenshot_20170319_230406.jpg?raw=true)
-![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/Screenshot_20170319_225423.jpg?raw=true)
+![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/SCREENSHOT/Screenshot_2017-01-21-23-03-17-767_com.magic.akash.magicbox.jpg?raw=true)
+![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/SCREENSHOT/Screenshot_20170216-030223.png?raw=true)
+![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/SCREENSHOT/Screenshot_2017-02-09-23-22-26-641_com.magic.akash.magicbox%20(1).png?raw=true)
+![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/SCREENSHOT/Screenshot_2017-02-09-23-24-40-241_com.magic.akash.magicbox.png?raw=true)
+![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/SCREENSHOT/Screenshot_20170319_230406.jpg?raw=true)
+![Alt text]https://github.com/akash14204/Student-Budget-Tracker/blob/master/SCREENSHOT/Screenshot_20170319_225529.jpg?raw=true)
+![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/SCREENSHOT/Screenshot_2017-07-09-23-30-31-937_com.magic.akash.magicbox.png?raw=true)
+![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/SCREENSHOT/Screenshot_20170319_225423.jpg?raw=true)
 
 ✔ Unique and Best Feature
 - having Saving Account setup for you
