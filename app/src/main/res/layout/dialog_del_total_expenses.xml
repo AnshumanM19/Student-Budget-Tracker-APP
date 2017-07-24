@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/transparent">
+    <RelativeLayout
+        android:layout_width="290dp"
+        android:layout_height="260dp"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:background="@drawable/customborder">
+    <RelativeLayout
+        android:layout_width="290dp"
+        android:layout_height="260dp"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:background="#fff"
+        android:padding="5dp">
+
+
+        <Button
+            android:layout_width="206dp"
+            android:layout_height="40dp"
+            android:text="Others"
+            android:id="@+id/buttone"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#ffffff"
+            android:background="#DC143C"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_margin="5dp" />
+
+        <Button
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:id="@+id/buttona_ee"
+            android:textColor="#ffffff"
+            android:layout_margin="5dp"
+            android:background="@drawable/cat"
+            android:layout_alignTop="@+id/buttone"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="206dp"
+            android:layout_height="40dp"
+            android:text="Fooding"
+            android:id="@+id/buttona"
+            android:textColor="#ffffff"
+            android:background="#DC143C"
+            android:layout_alignBottom="@+id/buttona_a"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_margin="5dp"/>
+
+        <Button
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:id="@+id/buttona_a"
+            android:textColor="#ffffff"
+            android:background="@drawable/food111"
+            android:layout_above="@+id/buttona_ee"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_margin="5dp"/>
+
+        <Button
+            android:layout_width="206dp"
+            android:layout_height="40dp"
+            android:text="Travel"
+            android:id="@+id/buttond"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#ffffff"
+            android:background="#DC143C"
+            android:layout_alignBottom="@+id/buttona_dd"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="5dp"/>
+
+        <Button
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:id="@+id/buttona_dd"
+            android:textColor="#ffffff"
+            android:background="@drawable/ground111"
+            android:layout_above="@+id/buttona"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_margin="5dp"/>
+
+        <Button
+            android:layout_width="206dp"
+            android:layout_height="40dp"
+            android:text="Shopping"
+            android:id="@+id/buttonc"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#ffffff"
+            android:background="#DC143C"
+            android:layout_alignBottom="@+id/buttona_cc"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_margin="5dp"/>
+
+        <Button
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:id="@+id/buttona_cc"
+            android:textColor="#ffffff"
+            android:background="@drawable/cart11"
+            android:layout_above="@+id/buttona_dd"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_margin="5dp"/>
+
+        <Button
+            android:layout_width="206dp"
+            android:layout_height="40dp"
+            android:text="Recharge"
+            android:id="@+id/buttonb"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#ffffff"
+            android:layout_margin="5dp"
+            android:background="#DC143C"
+            android:layout_above="@+id/buttonc"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <Button
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:id="@+id/buttona_bb"
+            android:textColor="#ffffff"
+            android:background="@drawable/mobile111"
+            android:layout_alignBottom="@+id/buttonb"
+            android:layout_alignLeft="@+id/buttona_cc"
+            android:layout_alignStart="@+id/buttona_cc" />
+</RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

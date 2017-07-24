@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.magicbank.akashsengar.magicbank">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    <application
+        android:icon="@mipmap/yoyo2"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.magicbank.akashsengar.magicbank.Splashscreen"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:noHistory="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="stateAlwaysHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.magicbank.akashsengar.magicbank.MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name="com.magicbank.akashsengar.magicbank.Budget"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.magicbank.akashsengar.magicbank.Timeline"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:noHistory="true" />
+        <activity
+            android:name="com.magicbank.akashsengar.magicbank.Display"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity
+            android:name="com.magicbank.akashsengar.magicbank.Display_money_exchange"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity
+            android:name="com.magicbank.akashsengar.magicbank.welcomeScreen"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:windowSoftInputMode="stateAlwaysVisible" />
+        <activity
+            android:name="com.magicbank.akashsengar.magicbank.Feedback"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_eedback"
+            android:screenOrientation="portrait"
+            android:theme="@style/FullscreenTheme" />
+
+        <receiver android:name="com.magicbank.akashsengar.magicbank.Notification" />
+        <receiver android:name="com.magicbank.akashsengar.magicbank.notification2" />
+
+        <activity android:name="com.magicbank.akashsengar.magicbank.ChooseCountry"
+        android:screenOrientation="portrait"/>
+        <activity android:name="com.magicbank.akashsengar.magicbank.star_fooding" />
+        <activity android:name="com.magicbank.akashsengar.magicbank.star_recharge" />
+        <activity android:name="com.magicbank.akashsengar.magicbank.star_shopping" />
+        <activity android:name="com.magicbank.akashsengar.magicbank.star_other" />
+        <activity android:name="com.magicbank.akashsengar.magicbank.star_transport" />
+
+
+        <receiver android:name="com.magicbank.akashsengar.magicbank.Notification_online">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>
