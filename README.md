@@ -7,7 +7,7 @@ Student Budget Tracker is the easiest and most user friendly expense manager app
 ![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/SCREENSHOT/Screenshot_2017-02-09-23-22-26-641_com.magic.akash.magicbox%20(1).png?raw=true)
 ![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/SCREENSHOT/Screenshot_2017-02-09-23-24-40-241_com.magic.akash.magicbox.png?raw=true)
 ![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/SCREENSHOT/Screenshot_20170319_230406.jpg?raw=true)
-![Alt text]https://github.com/akash14204/Student-Budget-Tracker/blob/master/SCREENSHOT/Screenshot_20170319_225529.jpg?raw=true)
+![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/SCREENSHOT/Screenshot_20170319_225529.jpg?raw=true)
 ![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/SCREENSHOT/Screenshot_2017-07-09-23-30-31-937_com.magic.akash.magicbox.png?raw=true)
 ![Alt text](https://github.com/akash14204/Student-Budget-Tracker/blob/master/SCREENSHOT/Screenshot_20170319_225423.jpg?raw=true)
 
